@@ -99,7 +99,7 @@ The sector demonstrates **moderate fragmentation with strong enterprise concentr
 Open-source audit and compliance platforms give privacy-conscious security teams, internal auditors, and engineering groups total data sovereignty, zero recurring seat costs, and direct database inspection.
 
 > [!TIP]
-> The table below is sorted in descending order by **GitHub Stars_Count**. Stars_Badges link directly to each project's stargazers page!
+> The table below is sorted in descending order by **GitHub_Stars_Count**. Stars_Badges link directly to each project's stargazers page!
 
 | Project 🛠️ | Popularity ⭐ | License 📜 | Technology Stack ⚙️ | Description & Audit Capabilities 📝 |
 | :--- | :--- | :--- | :--- | :--- |
