@@ -99,7 +99,7 @@ The sector demonstrates **moderate fragmentation with strong enterprise concentr
 Open-source audit and compliance platforms give privacy-conscious security teams, internal auditors, and engineering groups total data sovereignty, zero recurring seat costs, and direct database inspection.
 
 > [!TIP]
-> The table below is sorted in descending order by **GitHub Star Count**. Star badges link directly to each project's stargazers page!
+> The table below is sorted in descending order by **GitHub Stars_Count**. Stars_Badges link directly to each project's stargazers page!
 
 | Project 🛠️ | Popularity ⭐ | License 📜 | Technology Stack ⚙️ | Description & Audit Capabilities 📝 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -145,7 +145,7 @@ Open-source audit and compliance platforms give privacy-conscious security teams
 Contributions are warmly welcomed! Please read our guidelines before submitting:
 1. 🍴 Fork the repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-audit-tool`).
-3. ✍️ Add the tool in alphabetical or sorted order with exact pricing/star counts.
+3. ✍️ Add the tool in alphabetical or sorted order with exact pricing/Stars_Counts.
 4. 📬 Open a Pull Request with details on why the tool should be included.
 
 ---
