@@ -4,10 +4,11 @@
 
 # 🛡️ Awesome Audit Management 📊
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Follow on GitHub](https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=social)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated index of top-tier enterprise SaaS and open-source Audit Management, Governance, Risk, and Compliance (GRC), and Internal Controls software.**
 
@@ -23,6 +24,8 @@
 - [💻 Open-Source & Self-Hosted Solutions](#-open-source--self-hosted-solutions)
 - [🎯 Selection Guide: SaaS vs. Open-Source](#-selection-guide-saas-vs-open-source)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -144,6 +147,23 @@ Contributions are warmly welcomed! Please read our guidelines before submitting:
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-audit-tool`).
 3. ✍️ Add the tool in alphabetical or sorted order with exact pricing/star counts.
 4. 📬 Open a Pull Request with details on why the tool should be included.
+
+---
+
+## 💖 Support
+
+Thank you so much for using and exploring **Awesome Audit Management**! If you find this curated collection helpful for your internal audit, compliance, and GRC research, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and share** it with your security, compliance, and engineering colleagues.
+- ☕ **Buy a coffee & sponsor**: If this project saved you time or added value to your organization, you can sponsor further research and development via our [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Audit-Management&type=date&legend=top-left)](https://star-histrry.dera.page/#ishandutta2007/Awesome-Audit-Management&type=date&legend=top-left)
 
 ---
 
